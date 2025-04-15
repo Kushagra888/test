@@ -1,4 +1,4 @@
-# 🖼️ Image Captioning with BLIP (Hugging Face + PyTorch)
+# 🖼️ Image Captioning (Hugging Face + PyTorch)
 
 This project uses the [BLIP (Bootstrapped Language Image Pretraining)](https://huggingface.co/Salesforce/blip-image-captioning-base) model from Hugging Face to generate natural language captions from images using PyTorch.
 
