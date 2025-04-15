@@ -6,8 +6,8 @@ This project uses the [BLIP (Bootstrapped Language Image Pretraining)](https://h
 
 ---
 
-Func - for single image
-Func2 - for all images in a folder
+# Func - for single image
+# Func2 - for all images in a folder
 ---
 
 ## 📦 Installation
